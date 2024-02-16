@@ -1,2 +1,2 @@
-# ResMon
-Arduino Oled Resource Monitor
+# SysResMon
+Arduino Oled System Resource Monitor
