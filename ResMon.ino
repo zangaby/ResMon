@@ -13,7 +13,7 @@ void drawSplashScreen() {
 
   display.setFont(ArialMT_Plain_16);
   display.setTextAlignment(TEXT_ALIGN_CENTER);
-  display.drawString(64, 20, "OLED RESmon");
+  display.drawString(64, 20, "SysResMon");
   display.display();
   delay(3000);  // Display splash screen for 3 seconds
 }
